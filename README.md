@@ -1,3 +1,4 @@
+
 # Weather Report Prediction and Data Analysis
 
 This project predicts rainfall using the historical Indian rainfall and weather dataset from Kaggle. The dataset includes daily weather observations such as temperature, wind speed, air pressure, elevation, and rainfall.
@@ -81,3 +82,7 @@ python src/train_model.py
 Run dashboard:
 
 streamlit run app.py
+
+# weather-report-prediction-and-data-analysis
+Weather data analysis and rainfall prediction using Python, Machine Learning, Streamlit, and the Open-Meteo API.
+
