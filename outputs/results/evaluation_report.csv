@@ -1,0 +1,2 @@
+dataset_size,training_records,testing_records,selected_features,target_variable,selected_model,mae,rmse,r2
+12000,9600,2400,"['avg_temp', 'min_temp', 'max_temp', 'wind_speed', 'air_pressure', 'elevation', 'latitude', 'longitude']",rainfall,Random Forest Regressor,10.921720911639738,17.370961021211226,0.03026476353850638
